@@ -110,3 +110,6 @@ a#pdf:hover { background: #222; }
 	color:#333333
 }
 
+.qr{
+float: right;
+padding: 3pt;
